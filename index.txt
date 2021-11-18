@@ -1,0 +1,8 @@
+Hello World
+2. Satir
+<<<<<<< HEAD
+bahar
+aa
+=======
+baba
+>>>>>>> tarik
